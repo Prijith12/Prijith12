@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Prijith T
-- 👀 I’m interested in web development,machine learning,Android app development...
-- 🌱 I’m currently learning MERN stack..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me MobNo:9037115409
+# Hi there, I'm Prijith T! 👋
 
-<!---
-Prijith12/Prijith12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a passionate developer with interests in web development, machine learning, and Android app development. As a MERN stack enthusiast, I specialize in delivering full-stack web applications with all the necessary features, including payment gateway integration and deployment.
+
+## Skills
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js, MongoDB
+- Other Technologies: Git, RESTful APIs, Payment Gateway Integration, AWS, Docker, Kubernetes
+
+## How to Reach Me
+📧 Email: prijitht4@gmail.com  
+📞 Phone: +91 9037115409
+
+Feel free to reach out if you have any questions or would like to collaborate on a project!
+
