@@ -6,7 +6,7 @@ I'm a passionate developer with interests in web development, machine learning, 
 ## Skills
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js, MongoDB
-- Other Technologies: Git, RESTful APIs, Payment Gateway Integration, AWS, Docker, Kubernetes
+- Other Technologies: Next.js,Nest.js,Git, RESTful APIs, Payment Gateway Integration, AWS, Docker, Kubernetes
 
 ## How to Reach Me
 📧 Email: prijitht4@gmail.com  
